@@ -1,1 +1,25 @@
 /* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+body {
+  background-color: #141414;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  color: #fff;
+}
+
+.mat-card {
+  background-color: #333 !important;
+}
+
+.mat-form-field-appearance-fill .mat-form-field-flex {
+  background-color: #444 !important;
+}
+
+.mat-input-element {
+  color: #fff !important;
+}
